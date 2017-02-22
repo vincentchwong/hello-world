@@ -1,6 +1,6 @@
 # hello-world
 
-Feature **Test**
+Feature **Test** 2
 
 - a
 - b
